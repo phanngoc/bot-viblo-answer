@@ -1,4 +1,6 @@
-# bot-viblo-answer
+# Bot-viblo-answer
+
+Repo dùng để crawl dữ liệu của viblo website chuyên mục hỏi đáp. Mục đích để thực tập question answer trong gpt2, mang tính chất research và học tập, everyone có thể tham khảo vui vẻ là chính ạ =)) 
 
 
 ## List feature of each notebook:
